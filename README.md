@@ -89,7 +89,7 @@
 
 **MS-COCO val14 subset**
 
-* FID and CLIP score
+FID and CLIP score
 
 | Model      | zero-shot FID | CLIP Score  | 
 |:----------:|:------------:|:------------:|
