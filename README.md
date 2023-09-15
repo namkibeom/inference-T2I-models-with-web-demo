@@ -34,7 +34,7 @@
 
 * for demo
 
-<img src="image/demo.png" width="600" heigh="400"> \\
+<img src="image/demo.png" width="600" heigh="400">
 
     * `inference_for_demo.py` contains the refactored 5 models inference code
 
