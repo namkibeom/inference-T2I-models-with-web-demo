@@ -76,7 +76,7 @@
 
 **Categorical Prompt detail**
 
-    * CLIP score
+* CLIP score
 
 | Model      |  Color-adj.  | Color-n. |  Count+Pos-phr. | Count+Pos-SE |
 |:----------:|:------------:|:--------:|:---------------:|:------------:|
@@ -89,7 +89,7 @@
 
 **MS-COCO val14 subset**
 
-    * FID and CLIP score
+* FID and CLIP score
 
 | Model      | zero-shot FID | CLIP Score  | 
 |:----------:|:------------:|:------------:|
