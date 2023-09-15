@@ -32,7 +32,7 @@
 
 ## Streamlit, Flask Demo
 
-* **for demo**
+**for demo**
 
 <img src="image/demo.png" width="600" heigh="400">
 
@@ -42,7 +42,7 @@
 
     * `streamlit.py` contains the streamlit code (front-end), `streamlit-asyncio.py` added Asynchronous processing
 
-* **for test**
+**for test**
 
     * `inference_for_test.py`
 
@@ -51,16 +51,16 @@
     * `For_test_generate_COCO.py` contains COCO caption-image generation test code
 
 ## Dataset
-*  **Categorical Prompt**
+**Categorical Prompt**
   
     *  [DrawBench](https://imagen.research.google/) Separation & transform (category, n./adj. , phr./SE)
 
-*  **MS-COCO val14 subset**
+**MS-COCO val14 subset**
 
 
 
 ## Evaluation 
-* **Categorical Prompt**
+**Categorical Prompt**
 
     * Web inference speed (streamlit/asyncio)
   
@@ -74,7 +74,7 @@
 | SD v2-1    |    865.91M   |  512 x 512   |**3.77 ± 0.057** |        0.82       |      0.81      |
 | Karlo      |     3.3B     |  256 x 256   |   5.05 ± 0.032  |        0.83       |    **0.84**    |
 
-* **Categorical Prompt detail**
+**Categorical Prompt detail**
 
     * CLIP score
 
@@ -87,7 +87,7 @@
 | Karlo      |     0.81     | **0.84** |      0.83       |   **0.84**   |
 
 
-* **MS-COCO val14 subset**
+**MS-COCO val14 subset**
 
     * FID and CLIP score
 
