@@ -32,7 +32,7 @@
 
 ## Streamlit, Flask Demo
 
-*for demo
+* for demo
 
 <img src="image/demo.png" width="600" heigh="400">
 
@@ -42,7 +42,7 @@
 
     * `streamlit.py` contains the streamlit code (front-end), `streamlit-asyncio.py` added Asynchronous processing
 
-*for test
+* for test
 
     * `inference_for_test.py`
 
