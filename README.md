@@ -31,8 +31,8 @@
 </table>
 
 ## Streamlit, Flask Demo
-<img src= "image/demo.png" width=“600" height=“400">
-\\
+<img src="image/demo.png" width="600" heigh="400">
+
 for demo
 
 * `inference_for_demo.py` contains the refactored 5 models inference code
