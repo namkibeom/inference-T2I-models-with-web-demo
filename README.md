@@ -125,12 +125,13 @@
       eprint        = {2112.10741},
       archivePrefix = {arXiv},
       primaryClass  = {cs.CV}
-
 }"><pre class="notranslate"><code>@article{glide,
       title         = { GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models.},
-      author        = {Alex Nichol, Prafulla Dhariwal, Aditya Ramesh, Pranav Shyam, Pamela Mishkin, Bob McGrew, Ilya Sutskever, Mark Chen},
+      author        = {Nichol, Alex and Dhariwal, Prafulla and Ramesh, Aditya and Shyam, Pranav and Mishkin, Pamela and McGrew, Bob and Sutskever, Ilya and Chen, Mark},
       year          = {2021},
-      howpublished  = {\url{[https://github.com/kakaobrain/minDALL-E](https://github.com/openai/glide-text2im)}},
+      eprint        = {2112.10741},
+      archivePrefix = {arXiv},
+      primaryClass  = {cs.CV}
 }
 </code></pre></div>
 
